@@ -1,4 +1,4 @@
-name: OceanRaftSurvival
-version: 1.0
-main: com.example.oceanraft.OceanRaftSurvival
-api-version: '1.21'
+commands:
+  raft:
+    description: Create your ocean raft
+    usage: /raft
